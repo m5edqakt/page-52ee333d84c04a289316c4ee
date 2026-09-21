@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "08f607a94deefc7182ccfb95",
+  "owner": "m5edqakt",
+  "repo": "page-52ee333d84c04a289316c4ee",
+  "title": "黑洞云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "52ee333d84c04a289316c4ee",
+      "a": "黑洞云",
+      "b": "2027最新官网",
+      "entity": "黑洞云",
+      "brand": "黑洞云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1c68440f43257cf628a620f4f34aa8a18157b0c63abcb18fd7733314e4be9f89",
+      "content": {
+        "primary_entity": "黑洞云",
+        "keyword1": "黑洞云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，查阅对应订阅导入说明。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "从基础版到团队版，按设备数量与流量需求选择合适套餐。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，黑洞云提供基础版、旗舰版、团队版三档方案，月付分别为 ¥15、¥35、¥85，年付对应 ¥150、¥350、¥850，覆盖 100GB 到 1000GB 流量与 3 至 20 台设备，旗舰版配备 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版支持企业定制路由与专属客户经理服务，按设备数量与订阅周期即可完成选择。",
+          "AI_FEATURES_INTRO": "从套餐对比、设备数量和订阅周期三个角度快速定位。",
+          "AI_FEATURES_TITLE": "套餐选择与设备配置",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月提供 100GB 流量与 3 台设备，适合单人或双人轻量使用与基础流媒体解锁。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月提供 300GB 流量与 5 台设备，配备 IPLC 专线游戏加速优化与全节点原生流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月提供 1000GB 流量与 20 台设备，支持企业定制路由与专属客户经理服务。",
+          "AI_FEATURE_TITLE_1": "基础版轻量适用",
+          "AI_FEATURE_TITLE_2": "旗舰版性能均衡",
+          "AI_FEATURE_TITLE_3": "团队版高带宽",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置的简单步骤。",
+          "AI_GUIDE_TITLE": "三步完成使用",
+          "AI_HERO_INTRO": "黑洞云面向海外网络加速场景，提供基础版、旗舰版和团队版三档套餐，按设备数量与流量需求灵活选择，支持流媒体解锁与游戏加速优化，年付方案让长期使用更经济。",
+          "AI_HERO_SUBTITLE": "黑洞云海外加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版配 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付 ¥150 起更经济",
+          "AI_PLANS_INTRO": "基础版月付 ¥15 含 100GB 流量，旗舰版月付 ¥35 含 300GB 流量并优化游戏线路，团队版月付 ¥85 含 1000GB 流量；年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版、团队版中确定合适方案。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的同时在线设备数量与线路特性，确认适配当前使用环境。",
+          "AI_STEP_TEXT_3": "按照所使用客户端的订阅导入文档，将订阅配置添加到对应设备。",
+          "AI_STEP_TITLE_1": "选择合适套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "黑洞云加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机或电脑单人多设备日常使用；若需求更高可考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，采用 IPLC 专线并针对游戏加速优化，还提供全节点原生流媒体解锁与 7x24 优先工单支持。",
+          "AI_FAQ_ANSWER_3": "年付更划算，基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于按月支付可节省两个月费用。",
+          "AI_FAQ_ANSWER_4": "黑洞云支持 Clash、Shadowrocket、V2Ray 等主流客户端，按设备系统选择对应工具并导入订阅即可，具体兼容性以客户端文档为准。",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由与专属客户经理服务，适合小团队协作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版有哪些专属权益？",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_4": "如何在常用客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "团队版能支持多少人同时使用？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fbbazpa.cn",
+    "host": "fbbazpa.cn"
+  },
+  "file_hashes": {
+    "index.html": "7a36d871cbeb4e70018892e3609caf334d4279ec92625a52d216eceb45d2f7bc",
+    "sitemap.xml": "c0bc5df8b6634219f62fa94ff4290aa469b26754d2a984e7a23b83d3b7de364d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9f370606ae0ae6935972227b5860348d287ab0e2cf90104b978a1c963d991447",
+    "robots.txt": "58c4aa58932549c603d5122f9a21a63e13982329a337ea54f97df458f11be6ad",
+    "c4e231686fe64c25405522a2a1bd690b.txt": "1503868915dcceac59ac6d1e4a12ecd19996c320ca94b55b560415878ca572f0"
+  },
+  "revision": "a68a360920986cbbb5eb28f2f5032afa275a1d690d91d8de8d15a53e64340dfd"
+}
